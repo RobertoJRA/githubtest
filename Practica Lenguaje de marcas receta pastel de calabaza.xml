@@ -1,0 +1,31 @@
+<?xml version"1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE recetario>
+<recetario>
+<receta>
+<nombre >Bizcocho de calabaza</nombre>
+<tipo>Postre</tipo>
+<raciones>8</raciones>
+<dificultad>facil</dificultad>
+<tiempo>35 minutos</tiempo>
+<calorias>250</calorias>
+<ingredientes>
+<ingredientes cantidad="250" unidad="gramos" nombre="calabaza asada limpia"/>
+<ingredientes cantidad="200" unidad="gramos" nombre="panela"/>
+<ingredientes cantidad="3" unidad="unidades" nombre="huevos"/>
+<ingredientes cantidad="70" unidad="gramos" nombre="aceite de girasol"/>
+<ingredientes cantidad="250" unidad="gramos" nombre="harina reposteria"/>
+<ingredientes cantidad="3" unidad="sobres dobles" nombre="gaseosas"/>
+</ingredientes>
+<preparación>
+<paso>0. Forrar un molde restángular de 18x30 aprox.</paso>
+<paso>1. Batir la calabaza asada con la panela</paso>
+<paso>2. Añadir los huevos y seguir batiendo hasta que la panela este disuelta </paso>
+<paso>3. Añadir el aceite y seguir batiendo hasta que quede mezclado</paso>
+<paso>4. -añadir la harina y los sobres blancos. Remover con cuidado y sin que queden grumos</paso>
+<paso>5. Añadir los sobres azules. Remover hasta que queden mezclados.</paso>
+<paso>6. Verter la mezcla en el molde ya preparado. Espolvorear la superficie con azúcar y canela</paso>
+<paso>7. Hornear a 175 grados C durante 25' con horno precalentado</paso>
+</preparación>
+</receta>
+</recetario>
+
