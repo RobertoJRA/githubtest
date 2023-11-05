@@ -1,0 +1,103 @@
+<?xml verson="1.0" encoding="utf-8" standalone="no"?>
+<alimentos>
+    <alimento grupo="legumbres" preparacion="cocidos" calorias="1090">Garbanzos
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="legumbres" preparacion="estofadas" calorias="690">Lentejas
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="legumbres" preparacion="" calorias="285">Alubias
+        <tipo>pintas</tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="legumbres" preparacion="" calorias="346">Guisantes
+        <tipo>secos</tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="legumbres" preparacion="rehogadas" calorias="100">Habas
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="legumbres" preparacion="" calorias="1300">Judías
+        <tipo></tipo>
+        <vaBienEn>fabada</vaBienEn>
+    </alimento>
+    <alimento grupo="verduras" preparacion="" calorias="15">Esparragos
+        <tipo>blancos</tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="verduras" preparacion="asados" calorias="55">Pimientos
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="verduras" preparacion="parrilla" calorias="28">Berenjena
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="verduras" preparacion="frito" calorias="71">Tomates
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="verduras" preparacion="fritas" calorias="234">Patatas
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="verduras" preparacion="fresco" calorias="9">Apio
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="pescados" preparacion="fritos" calorias="118">Calamares
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="pescados" preparacion="en aceite" calorias="185">Anchoas
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="pescados" preparacion="plancha" calorias="92">Merluza
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="pescados" preparacion="" calorias="145">Sardinas
+        <tipo>fresca</tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="pescados" preparacion="en aceite" calorias="274">Atún
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="pescados" preparacion="ahumado" calorias="210">Salmón
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="aperitivos" preparacion="fritas" calorias="589">Almendras
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="aperitivos" preparacion="" calorias="152">Ensaladilla
+        <tipo>rusa</tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="aperitivos" preparacion="" calorias="102">Croquetas
+        <tipo>caseras</tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="aperitivos" preparacion="rellenas" calorias="221">Aceitunas
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="aperitivos" preparacion="" calorias="568">Patatas
+        <tipo>chips</tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="aperitivos" preparacion="cocidas" calorias="102">Gambas
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+    <alimento grupo="Frutas" tipo="" vanBienEn="" preparacion="" calorias="">
+        <tipo></tipo>
+        <vaBienEn></vaBienEn>
+    </alimento>
+</alimentos>
