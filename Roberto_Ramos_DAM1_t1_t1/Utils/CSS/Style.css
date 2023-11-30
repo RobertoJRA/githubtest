@@ -1,0 +1,43 @@
+ul{
+    color:black;
+    background-color:aqua;
+    font-style: italic;
+    font-family: 'Lato', sans-serif;
+    padding-block: 15px;
+    display:list-item;
+    list-style-type:circle;
+}
+
+form{
+    background-color: bisque;
+    padding-bottom: 30px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+h2{
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+p{
+    text-align: left;
+    margin-left: 10px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+table{
+    background-color: brown;
+}
+
+main{
+    background-color: beige;
+}
