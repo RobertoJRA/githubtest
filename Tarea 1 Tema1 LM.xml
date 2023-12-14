@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<pedido>
+    <destinatarioDelPedido>Sr Pedro Martin Martínez</destinatarioDelPedido>
+    <articuloPedido>Tablet Samsung Galaxy Tab A8</articuloPedido>
+    <direccionDeEntrega localidad="Madrid">
+        <calle>Virgen de la Cruz, 2</calle>
+        <piso>7º</piso>
+        <puerta>A</puerta>
+    </direccionDeEntrega>
+    <fechaDeEntrega fecha="17-10-2022"></fechaDeEntrega>
+</pedido>

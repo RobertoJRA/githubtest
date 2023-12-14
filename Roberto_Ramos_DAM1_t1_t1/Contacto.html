@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./Utils/CSS/Style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Nunito+Sans:ital,opsz,wght@0,6..12,600;0,6..12,700;1,6..12,700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de contacto</title>
+</head>
+<body>
+    <header>
+        <h1>Locos y jugones</h1>
+        <nav>
+            <ul>
+                <li><a href="./Index.html">Página principal</a></li>
+                <li><a href="./Contenido.html">Categorias y ejemplos de juegos</a></li>
+                <li><a href="./Contacto.html">Contacta con nosotros</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>FORMULARIO DE CONTACTO</h2>
+        <p>Si deseas hablar de más de un juego envia un formulario distinto por cada uno</p>
+        <img src="https://blog.toyplanet.com/app/uploads/2022/06/juegos-mesa-blog-1.jpg" width="50%">
+        <form action="" enctype="">
+            <h3>¿De que juego deseas hablar?</h3>
+            <label>War of the Ring</label><input type="radio" name="juego"></br>
+            <label>Clanck!</label><input type="radio" name="juego"></br>
+            <label>Maracaibo</label><input type="radio" name="juego"></br>
+            <label>Port Royal</label><input type="radio" name="juego"></br>
+            <label>Ark Nova</label><input type="radio" name="juego"></br>
+            <label>Root</label><input type="radio" name="juego"></br>
+            <label>Grean Western Trail</label><input type="radio" name="juego"></br>
+            <label>Colt Express</label><input type="radio" name="juego"></br>
+            <label>Terraforming Mars</label><input type="radio" name="juego"></br>
+            <label>Stockpile</label><input type="radio" name="juego"></br>
+            <h5>¿Cuantas veces has jugado?</h5><select name="numero-partidas">
+                <option value="0">0 veces</option>
+                <option value="1">1 vez</option>
+                <option value="2">De 2 a 5</option>
+                <option value="5">Más de 5</option>
+            </select>
+            <h5>Con cuantos amigos lo has solido jugar</h5><input type="number" name="jugadores" placeholder="Nº amigos"></br>
+            <h5>Aproximadamente cuando fue la ultima vez que jugaste</h5><input type="date" name="ultimapartida"></br>
+            <h5>Explicanos tus dudas o intereses</h5><textarea type="text" name="motivo" placeholder="Escribe aqui" rows="4" cols="50"></textarea></br> <!--La etiqueta <imput type="text"> era muy pequeña y no me deja cambiar el tamaño-->
+            <button>Enviar pregunta</button>
+        </main>
+</body>
+</html>

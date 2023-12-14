@@ -1,0 +1,52 @@
+<?xml verson="1.0" encoding="utf-8" standalone="no"?>
+<alimentos>
+    <alimento grupo="legumbres" tipo="cocidos" calorias="1090">Garbanzos</alimento>
+    <alimento grupo="legumbres" tipo="estofadas" calorias="690">Lentejas</alimento>
+    <alimento grupo="legumbres" tipo="pintas" calorias="285">Alubias</alimento>
+    <alimento grupo="legumbres" tipo="secos" calorias="346">Guisantes</alimento>
+    <alimento grupo="legumbres" tipo="rehogadas" calorias="100">Habas</alimento>
+    <alimento grupo="legumbres" tipo="fabada" calorias="1300">Judías</alimento>
+    <alimento grupo="verduras" tipo="blancos" calorias="15">Esparragos</alimento>
+    <alimento grupo="verduras" tipo="asados" calorias="55">Pimientos</alimento>
+    <alimento grupo="verduras" tipo="parrilla" calorias="28">Berenjena</alimento>
+    <alimento grupo="verduras" tipo="frito" calorias="71">Tomates</alimento>
+    <alimento grupo="verduras" tipo="fritas" calorias="234">Patatas</alimento>
+    <alimento grupo="verduras" tipo="fresco" calorias="9">Apio</alimento>
+    <alimento grupo="pescados" tipo="fritos" calorias="118">Calamares</alimento>
+    <alimento grupo="pescados" tipo="en aceite" calorias="185">Anchoas</alimento>
+    <alimento grupo="pescados" tipo="plancha" calorias="92">Merluza</alimento>
+    <alimento grupo="pescados" tipo="fresca" calorias="145">Sardinas</alimento>
+    <alimento grupo="pescados" tipo="en aceite" calorias="274">Atún</alimento>
+    <alimento grupo="pescados" tipo="ahumado" calorias="210">Salmón</alimento>
+    <alimento grupo="aperitivos" tipo="fritas" calorias="589">Almendras</alimento>
+    <alimento grupo="aperitivos" tipo="rusa" calorias="152">Ensaladilla</alimento>
+    <alimento grupo="aperitivos" tipo="caseras" calorias="102">Croquetas</alimento>
+    <alimento grupo="aperitivos" tipo="rellenas" calorias="221">Aceitunas</alimento>
+    <alimento grupo="aperitivos" tipo="chips" calorias="568">Patatas</alimento>
+    <alimento grupo="aperitivos" tipo="cocidas" calorias="102">Gambas</alimento>
+    <alimento grupo="frutas" tipo="fresco" calorias="135">Aguacate</alimento>
+    <alimento grupo="frutas" tipo="fresco" calorias="84">Plátano</alimento>
+    <alimento grupo="frutas" tipo="fresco" calorias="58">Cerezas</alimento>
+    <alimento grupo="frutas" tipo="fresco" calorias="50">Piña</alimento>
+    <alimento grupo="frutas" tipo="fresco" calorias="70">Pera</alimento>
+    <alimento grupo="frutas" tipo="fresco" calorias="73">Kiwi</alimento>
+    <alimento grupo="carnes" tipo="escalope" calorias="326">Ternera</alimento>
+    <alimento grupo="carnes" tipo="asado" calorias="575">Cordero</alimento>
+    <alimento grupo="carnes" tipo="horno" calorias="825">Cochinillo</alimento>
+    <alimento grupo="carnes" tipo="asado" calorias="844">Cerdo</alimento>
+    <alimento grupo="carnes" tipo="parrilla" calorias="120">Pollo</alimento>
+    <alimento grupo="carnes" tipo="asado" calorias="232">Pato</alimento>
+    <alimento grupo="bebidas" tipo="ron" calorias="327">Cubalibre</alimento>
+    <alimento grupo="bebidas" tipo="negra" calorias="110">Cerveza</alimento>
+    <alimento grupo="bebidas" tipo="solo" calorias="499">Whiski</alimento>
+    <alimento grupo="bebidas" tipo="tinto" calorias="170">Vino</alimento>
+    <alimento grupo="bebidas" tipo="brut" calorias="80">Cava</alimento>
+    <alimento grupo="bebidas" tipo="con alcohol" calorias="421">Sangria</alimento>
+    <alimento grupo="varios" tipo="carne" calorias="536">Raviolis</alimento>
+    <alimento grupo="varios" tipo="pollo" calorias="780">Canelones</alimento>
+    <alimento grupo="varios" tipo="con leche" calorias="655">Chocolate</alimento>
+    <alimento grupo="varios" tipo="vainilla" calorias="259">Helado</alimento>
+    <alimento grupo="varios" tipo="básica" calorias="300">Pizza</alimento>
+    <alimento grupo="varios" tipo="blanco" calorias="180">Pan</alimento>
+</alimentos>
+    
