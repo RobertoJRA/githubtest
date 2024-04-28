@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <title>Tarea evaluable 3T</title>
+</head>
+
+<body>
+
+    <header></header>
+    <main style="background-color: blanchedalmond;" class=" ">
+        <div class="row  m-3">
+
+            <div class="row m-3">
+                <div class="col m-3">
+                    <h2>Filtros de busqueda</h2>
+                </div>
+
+            </div>
+            <div class="row  m-3">
+                <div class="col  m-3">
+                    <h5>Burcar por precio mínimo</h5>
+                    <input id="precio" type="number" class="form-control" placeholder="Introduce un valor" aria-label=""
+                        aria-describedby="addon-wrapping">
+                </div>
+                <div  class="col  m-3"> 
+                    <h5>Burcar por categoría</h5>
+                    <select id="categoria" class="form-select" aria-label="">
+                        <option selected>Elija una opcion de filtrado</option>
+                        <option value="smartphones">Smartphones</option>
+                        <option value="laptops">Laptops</option>
+                        <option value="fragrances">Fragancias</option>
+                        <option value="skincare">Cuidado de la piel</option>
+                        <option value="groceries">Alimentación</option>
+                        <option value="home-decoration">Decoración</option>
+                    </select></div>
+                <div class="col  m-3">
+                    <h5>Burcar por marca</h5>
+                    <select id="marca" class="form-select" aria-label="">
+                        <option selected>Elija una opcion de filtrado</option>
+                        <option value="Apple">Apple</option>
+                        <option value="Samsung">Samsung</option>
+                        <option value="Huawei">Huawei</option>
+                        <option value="OPPO">OPPO</option>
+                        <option value="Microsoft Surface">Microsoft</option>
+                        <option value="Infinix">Infinix</option>
+                        <option value="HP Pavilion">HP</option>
+                        <option value="Impression of Acqua Di Gio">Acqua Di Gio</option>
+                        <option value="Royal_Mirage">Royal_Mirage</option>
+                        <option value="Fog Scent Xpressio">Fog Scent Xpressio</option>
+                        <option value="Al Munakh">Al Munakh</option>
+                        <option value="Lord - Al-Rehab">Lord</option>
+                    </select>
+                </div>
+                <button id="aplicar" type="button" class="btn btn-warning">Aplicar filtros de busqueda </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col"><div style="background-color: bisque;" class="row" id="resultado"></div></div>
+            
+            <div class="col-3">
+                <h5>Cesta de la compra</h5>
+                <ul class="list-group" id="carrito"></ul>
+                <button id="btotal" type="button" class="btn btn-warning">Consultar el total de la compra </button>
+            </div>
+        </div>
+
+
+    </main>
+
+</body>
+<script src="Dinamico/JS/dinamico.js"></script>
+
+</html>
